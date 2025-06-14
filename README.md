@@ -1,2 +1,2 @@
-# ta-project-bs
+# Virtual-TA-Project-BS
 TA project for IITMBS
